@@ -1,0 +1,16 @@
+C:\Users\trail\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\trail\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\trail\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\trail\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\HospitalApplication.csprojAssemblyReference.cache
+C:\Users\trail\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\staff_ne.CreateNewStaff.resources
+C:\Users\trail\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\staff_ne.StafttInterface.resources
+C:\Users\trail\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UI.NewItem.resources
+C:\Users\trail\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.NewPatient.resources
+C:\Users\trail\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MainMenu.resources
+C:\Users\trail\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.PatientInterface.resources
+C:\Users\trail\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\trail\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Storage_UI.resources
+C:\Users\trail\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\HospitalApplication.csproj.GenerateResource.cache
+C:\Users\trail\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\trail\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\trail\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Class.SelectPatient.resources
